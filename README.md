@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100" height="100" src="https://raw.githubusercontent.com/markaelie/LUNETA/master/Various/luneta_icon.png">
+  <img width="130" height="130" src="https://raw.githubusercontent.com/markaelie/LUNETA/master/Various/luneta_icon.png">
 </p>
 
 # LUNETA  
@@ -55,6 +55,3 @@ Free your mind and do whatever you want with Playmaker
 
 
 ![alt text](https://raw.githubusercontent.com/markaelie/LUNETA/master/Various/Playmaker_1_LUNETA.png)
-
-
-![alt text](https://raw.githubusercontent.com/markaelie/LUNETA/master/Various/Playmaker_2_LUNETA.png)
