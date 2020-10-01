@@ -1,5 +1,21 @@
 # LUNETA
 
+
+Featured by Apple in 150+ countries.
+
+App Store
+
+Playing on iOS can be intense, reflexive, acting, laughing, or fearful, but it can also be relaxing, soothing, and refreshing.
+
+iPhon.fr
+
+Shortlisted by PGConnects.
+
+Pocket Gamer
+
+
+
+
 The Source code is designed for iOS and Android devices, webgl version is only for demonstration.
 Unity version 2018.4.27f1
 Used 3rd Party Tools
