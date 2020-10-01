@@ -1,10 +1,12 @@
+<p align="center">
+  <img width="100" height="100" src="https://raw.githubusercontent.com/markaelie/LUNETA/master/Various/luneta_icon.png">
+</p>
+
 # LUNETA  
   
 ![alt text](https://raw.githubusercontent.com/markaelie/LUNETA/master/Various/luneta_logo.png)
   
-<p align="center">
-  <img width="60" height="60" src="https://raw.githubusercontent.com/markaelie/LUNETA/master/Various/luneta_icon.png">
-</p>
+
   
 Enter into the infinite galaxy of LUNETA where live a lot of amazing and beautiful worlds.  
   
