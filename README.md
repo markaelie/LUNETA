@@ -1,10 +1,10 @@
 <p align="center">
-  <img width="130" height="130" src="https://raw.githubusercontent.com/markaelie/LUNETA/master/Various/luneta_icon.png">
+  <img width="130" height="130" src="https://raw.githubusercontent.com/markaelie/LUNETA/master/Various/luneta_icon400x400.png">
 </p>
 
 # LUNETA  
   
-![alt text](https://raw.githubusercontent.com/markaelie/LUNETA/master/Various/luneta_logo400x400.png)
+![alt text](https://raw.githubusercontent.com/markaelie/LUNETA/master/Various/luneta_logo.png)
   
 
   
