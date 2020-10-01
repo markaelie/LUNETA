@@ -47,8 +47,8 @@ Stan's Assets Android Native 9.10/24 - used for Play Store services (not include
 iTween 2.0.44 - used for animation (included)  
 DOTween 1.2.235 - used for animation (included)  
 iOS Haptic by Alexander Hodge - used for iPhone's Haptic Effects (not included)  
-Used Font - Quicksand by Andrew Paglinawan
-Music by Freesound.org
+Used Font - Quicksand by Andrew Paglinawan  
+Music by Freesound.org  
 
 ## PlayMaker
 
