@@ -14,22 +14,15 @@ Enter into the infinite galaxy of LUNETA where live a lot of amazing and beautif
 - Integrated Store Services
 - 60 FPS Even on Older Devices
 
-**
-
 ** Featured by Apple in 150+ countries
 ** Now Availaible only on [Play Store](https://play.google.com/store/apps/details?id=com.markhunanyan.luneta)
 
 
-
-App Store
-
 Playing on iOS can be intense, reflexive, acting, laughing, or fearful, but it can also be relaxing, soothing, and refreshing.
-
-iPhon.fr
+>iPhon.fr
 
 Shortlisted by PGConnects.
-
-Pocket Gamer
+>Pocket Gamer
 
 
 
