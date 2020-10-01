@@ -16,6 +16,8 @@ LUNETA is an arcade game with absorbing gameplay and meditation music created in
 It's now **free** and **open** for educational purposes.  
 The Source code is designed for iOS and Android devices, webgl version is only for demonstration.  
   
+ ### FEATURES 
+  
 - 4 Games in 1
 - Meditation Relax Music
 - Real Parallaxing
@@ -47,7 +49,8 @@ Stan's Assets Android Native 9.10/24 - used for Play Store services (not include
 iTween 2.0.44 - used for animation (included)  
 DOTween 1.2.235 - used for animation (included)  
 iOS Haptic by Alexander Hodge - used for iPhone's Haptic Effects (not included)  
-Used Font - Quicksand by Andrew Paglinawan
+Font - Quicksand by Andrew Paglinawan  
+Music - Freesound.org  
 
 ## PlayMaker
 
