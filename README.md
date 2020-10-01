@@ -1,5 +1,7 @@
 # LUNETA
 
+![alt text](https://github.com/markaelie/luneta/Various/logo.png?raw=true)
+
 Enter into the infinite galaxy of LUNETA where live a lot of amazing and beautiful worlds.
 
 LUNETA is an arcade game with absorbing gameplay and meditation music created in 2016.;
