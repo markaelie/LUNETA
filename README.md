@@ -48,6 +48,7 @@ iTween 2.0.44 - used for animation (included)
 DOTween 1.2.235 - used for animation (included)  
 iOS Haptic by Alexander Hodge - used for iPhone's Haptic Effects (not included)  
 Used Font - Quicksand by Andrew Paglinawan
+Music by Freesound.org
 
 ## PlayMaker
 
