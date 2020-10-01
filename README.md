@@ -1,8 +1,14 @@
 # LUNETA
 
+<p align="center">
+  <img width="60" height="60" src="https://raw.githubusercontent.com/markaelie/LUNETA/master/Various/luneta_icon.png">
+</p>
+  
 ![alt text](https://raw.githubusercontent.com/markaelie/LUNETA/master/Various/luneta_logo.png)
   
-Enter into the infinite galaxy of LUNETA where live a lot of amazing and beautiful worlds.
+Enter into the infinite galaxy of LUNETA where live a lot of amazing and beautiful worlds.  
+  
+[Video](https://www.youtube.com/watch?v=rP_t0bxryYs)
   
 LUNETA is an arcade game with absorbing gameplay and meditation music created in 2016.  
 It's now **free** and **open** for educational purposes.  
@@ -17,15 +23,11 @@ The Source code is designed for iOS and Android devices, webgl version is only f
 - Integrated Store Services
 - 60 FPS Even on Older Devices
   
-![alt text](https://raw.githubusercontent.com/markaelie/LUNETA/master/Various/luneta_icon.png)
   
 ** Featured by Apple in 150+ countries  
 ** Now Availaible only on [Play Store](https://play.google.com/store/apps/details?id=com.markhunanyan.luneta)
   
-<p align="center">
-  <img width="60" height="60" src="https://raw.githubusercontent.com/markaelie/LUNETA/master/Various/luneta_icon.png">
-</p>
-  
+
   
 _Playing on iOS can be intense, reflexive, acting, laughing, or fearful, but it can also be relaxing, soothing, and refreshing._
 >iPhon.fr
