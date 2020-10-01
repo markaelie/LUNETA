@@ -2,7 +2,7 @@
 
 
 
-LUNETA is an arcade game with absorbing gameplay and meditation music.
+LUNETA is an arcade game with absorbing gameplay and meditation music.  
 Enter into the infinite galaxy of LUNETA where live a lot of amazing and beautiful worlds.
 
 - 4 Games in 1
@@ -14,7 +14,7 @@ Enter into the infinite galaxy of LUNETA where live a lot of amazing and beautif
 - Integrated Store Services
 - 60 FPS Even on Older Devices
 
-** Featured by Apple in 150+ countries
+** Featured by Apple in 150+ countries  
 ** Now Availaible only on [Play Store](https://play.google.com/store/apps/details?id=com.markhunanyan.luneta)
 
 
