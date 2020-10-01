@@ -4,7 +4,7 @@
 
 # LUNETA  
   
-![alt text](https://raw.githubusercontent.com/markaelie/LUNETA/master/Various/luneta_logo.png)
+![alt text](https://raw.githubusercontent.com/markaelie/LUNETA/master/Various/luneta_logo400x400.png)
   
 
   
