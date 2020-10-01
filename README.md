@@ -16,7 +16,7 @@ LUNETA is an arcade game with absorbing gameplay and meditation music created in
 It's now **free** and **open** for educational purposes.  
 The Source code is designed for iOS and Android devices, webgl version is only for demonstration.  
   
- ## FEATURES 
+ ### FEATURES 
   
 - 4 Games in 1
 - Meditation Relax Music
