@@ -14,7 +14,7 @@ Enter into the infinite galaxy of LUNETA where live a lot of amazing and beautif
   
 LUNETA is an arcade game with absorbing gameplay and meditation music created in 2016.  
 It's now **free** and **open** for educational purposes.  
-The Source code is designed for iOS and Android devices, webgl version is only for demonstration.  
+The Source code is designed for iOS and Android devices.    
   
  ### FEATURES 
   
