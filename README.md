@@ -1,7 +1,25 @@
 # LUNETA
 
 
-Featured by Apple in 150+ countries.
+
+LUNETA is an arcade game with absorbing gameplay and meditation music.
+Enter into the infinite galaxy of LUNETA where live a lot of amazing and beautiful worlds.
+
+- 4 Games in 1
+- Meditation Relax Music
+- Real Parallaxing
+- Haptic Feedback Support
+- Motion Gesture Events
+- 3D Touch and Haptic Support
+- Integrated Store Services
+- 60 FPS Even on Older Devices
+
+**
+
+** Featured by Apple in 150+ countries
+
+
+
 
 App Store
 
