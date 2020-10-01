@@ -22,10 +22,10 @@ The Source code is designed for iOS and Android devices, webgl version is only f
 ** Featured by Apple in 150+ countries  
 ** Now Availaible only on [Play Store](https://play.google.com/store/apps/details?id=com.markhunanyan.luneta)
   
-  <p align="center">
-  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+<p align="center">
+  <img width="60" height="60" src="https://raw.githubusercontent.com/markaelie/LUNETA/master/Various/luneta_icon.png">
 </p>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/rP_t0bxryYs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
   
 _Playing on iOS can be intense, reflexive, acting, laughing, or fearful, but it can also be relaxing, soothing, and refreshing._
 >iPhon.fr
