@@ -1,10 +1,10 @@
-# LUNETA
-
+# LUNETA  
+  
+![alt text](https://raw.githubusercontent.com/markaelie/LUNETA/master/Various/luneta_logo.png)
+  
 <p align="center">
   <img width="60" height="60" src="https://raw.githubusercontent.com/markaelie/LUNETA/master/Various/luneta_icon.png">
 </p>
-  
-![alt text](https://raw.githubusercontent.com/markaelie/LUNETA/master/Various/luneta_logo.png)
   
 Enter into the infinite galaxy of LUNETA where live a lot of amazing and beautiful worlds.  
   
@@ -35,9 +35,6 @@ _Playing on iOS can be intense, reflexive, acting, laughing, or fearful, but it 
 _Shortlisted by PGConnects._
 >Pocket Gamer
   
-  
-![alt text](https://www.youtube.com/watch?v=rP_t0bxryYs)
-
 ## Unity version and Plugin list
  
 Unity version 2018.4.27f1  
