@@ -1,6 +1,6 @@
 # LUNETA
 
-![alt text](https://github.com/markaelie/luneta/Various/logo.png?raw=true)
+![alt text](https://github.com/markaelie/luneta/Various/luneta_logo.png?raw=true)
 
 Enter into the infinite galaxy of LUNETA where live a lot of amazing and beautiful worlds.
 
