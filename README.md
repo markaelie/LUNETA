@@ -1,4 +1,6 @@
 # LUNETA
+
+The Source code is designed for iOS and Android devices, webgl version is only for demonstration.
 Unity version 2018.4.27f1
 Used 3rd Party Tools
 PlayMaker 1.9.0.p12- used for finite state solotion (not included)
