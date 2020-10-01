@@ -17,7 +17,7 @@ Enter into the infinite galaxy of LUNETA where live a lot of amazing and beautif
 **
 
 ** Featured by Apple in 150+ countries
-
+** Now Availaible only on [Play Store](https://play.google.com/store/apps/details?id=com.markhunanyan.luneta)
 
 
 
