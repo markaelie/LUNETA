@@ -22,7 +22,9 @@ The Source code is designed for iOS and Android devices, webgl version is only f
 ** Featured by Apple in 150+ countries  
 ** Now Availaible only on [Play Store](https://play.google.com/store/apps/details?id=com.markhunanyan.luneta)
   
-  
+  <p align="center">
+  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+</p>
   
   
 _Playing on iOS can be intense, reflexive, acting, laughing, or fearful, but it can also be relaxing, soothing, and refreshing._
