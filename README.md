@@ -12,7 +12,7 @@ Enter into the infinite galaxy of LUNETA where live a lot of amazing and beautif
   
 [Video](https://www.youtube.com/watch?v=rP_t0bxryYs)
   
-LUNETA is an arcade game with absorbing gameplay and meditation music created in 2016.  
+LUNETA is an arcade game with absorbing gameplay and meditation music created in 2016 with Unity and PlayMaker.  
 It's now **free** and **open** for educational purposes.  
 The Source code is designed for iOS and Android devices.    
   
