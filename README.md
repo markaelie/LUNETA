@@ -52,7 +52,4 @@ Music - Freesound.org
 
 ## PlayMaker
 
-Free your mind and do whatever you want with Playmaker
-
-
 ![alt text](https://raw.githubusercontent.com/markaelie/LUNETA/master/Various/Playmaker_1_LUNETA.png)
